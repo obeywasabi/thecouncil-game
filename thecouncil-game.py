@@ -2,5 +2,3 @@
 ## Origin: 10/30/2022
 
 import pygame
-
-
